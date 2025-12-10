@@ -529,7 +529,7 @@
 "Delete folder","","Удалить папку"
 "Unable to delete the folder '%s'. Make sure it's empty first.","","Невозможно удалить папку '%s'. Сначала убедитесь, что она пуста."
 "Moved ingame","","Перемещены в игре"
-"Go back the specified duration","","Отмотать назад на заданное время "
+"Go back the specified duration","","Отмотать назад на заданное время"
 "%s min.","Demo player duration","%s мин."
 "%s sec.","Demo player duration","%s сек."
 "Change the skip duration","","Изменить продолжительность шага"
