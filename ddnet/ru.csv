@@ -703,7 +703,7 @@
 "Others","Show players' key presses","Других"
 "All","Show players' key presses","Всех"
 "Preview dummy's name plate","","Просмотр дамми"
-"AntiPing: prediction margin","","Антипинг: Предел предсказаний"
+"AntiPing: prediction margin","","Антипинг: Запас предсказания"
 "Out of VRAM. Try setting 'cl_skins_loaded_max' to a lower value or remove custom assets (skins, entities, etc.), especially those with high resolution.","Graphics error","Не хватает VRAM. Попробуйте установить 'cl_skins_loaded_max' на меньшее значение или удалить пользовательские файлы (скины, наложения и т. д.), особенно те, которые имеют высокое разрешение."
 "This name cannot be used for files and folders","","Это имя не может быть использовано для файлов и папок."
 "This skin name cannot be used.","","Это имя скина не может быть использовано."
