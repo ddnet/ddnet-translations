@@ -502,7 +502,7 @@
 "Saving settings to '%s' failed","","Beállítások elmentése '%s' helyen sikertelen"
 "Error saving settings","","Beállítások elmentése sikertelen"
 "No demo with this filename exists","","Nem létezik demó ezzel a fájl névvel"
-"The width of texture %s is not divisible by %d, or the height is not divisible by %d, which might cause visual bugs.","","A textúra szélessége vagy nagysága '%s' nem osztható el '%d' számmal, ami vizsuális problémákat okozhat."
+"The width of texture %s is not divisible by %d, or the height is not divisible by %d, which might cause visual bugs.","",""
 """%s"" is not compatible with pnglite and cannot be loaded by old DDNet versions:","","""%s"" nem kompatibilis pnglite-al és régi DDNet verziók nem tudják betölteni:"
 "Loading demo file from storage","","Demó fájl betöltése tárolóból"
 "Some fonts could not be loaded. Check the local console for details.","","Pár betű fájl betöltése sikertelen volt. Nézd a konzolt további részletekért."
